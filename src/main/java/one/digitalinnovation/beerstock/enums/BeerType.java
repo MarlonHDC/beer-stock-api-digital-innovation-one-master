@@ -13,7 +13,10 @@ public enum BeerType {
     WEISS("Weiss"),
     ALE("Ale"),
     IPA("IPA"),
-    STOUT("Stout");
+    STOUT("Stout"),
+    HEINEKEN("Heineken");
+
+
 
     private final String description;
 }
